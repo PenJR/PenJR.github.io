@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>My Curriculum Vitae</title>
+
+    <style>
+        body{
+            background-image: url(https://img.lovepik.com/background/20211029/medium/lovepik-technology-wind-cell-wallpaper-background-image_400239882.jpg);
+        }
+        h1{
+            text-align: center;
+        }
+        
+        .maincontent{
+            margin-left: 10em;
+            margin-right: 10em;
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-bottom: 50px;
+            padding-top: 10px;
+            border-radius: 5px;
+            background-color: rgb(194, 189, 189);
+            background-image: url(https://png.pngtree.com/png-vector/20221122/ourmid/pngtree-abstract-blue-digital-technology-lines-diagram-png-image_6474402.png);
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-blend-mode:multiply;
+            
+
+        }
+
+        .banner{
+            padding-top: 25px;
+            padding-bottom: 25px;
+            background-color: rgb(72, 160, 160);
+            text-decoration: solid;
+            color: rgb(224, 223, 223);
+           
+        }
+
+        .MYPFP{
+            height: 300px;  
+            width: 300px;
+            margin-left: 280px;
+           
+        }
+
+       a{
+            color: white;
+            text-decoration: none;
+       }
+
+       .navbar{
+        text-align: right;
+        background-color: black;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    
+        
+
+    </style>
+</head>
+<body>
+    
+
+    <div class="navbar">
+        <a href="#aboutme">About Me|  </a>
+        <a href="#pi">  Personal Information| </a>
+        <a href="#eb">  Educational Background| </a>
+        <a href="#si"> Skills and Interest| </a>      
+        <a href="#we">  Work Experience| </a>     
+        <a href="#c">  Certifications| </a>   
+        <a href="#cr">  Character Reference| </a>
+       
+
+    </div>
+<br>
+    <div class="banner"> 
+        <h1> Hi, I am John Rio D. Pinatacan</h1>
+    </div>
+
+
+    <br>
+    <div class="maincontent">
+
+        
+        <h2 id="aboutme"> About Me</h2>
+        <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/371517308_2308609202862560_8462339883627692726_n.jpg?stp=dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFvIJmg0WqJGFhHd5t7xGAzWYx2g6xh50pZjHaDrGHnSpT1FASv11gjzgIgBwvCB45M_VTC8pEzZwyw5Lw-kOxN&_nc_ohc=nxtVmrcUMpwAX8FVzCI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQkZ_2I5bh4JGWNxacZn9o9eb7bYWSNrlaB2GVTMYd8sg&oe=658404EA" class="MYPFP">
+        <p> I am a programmer that is also a student of CMU. I hold many skills and my greatest talents are my
+            positivity, creativity, and adaptability. I have experience in programming in both web and game design.
+        </p>
+
+        <hr>
+
+        <h2 id="pi">Personal Information</h2>
+        <p> Name:John Rio D. Pinatacan</p>
+        <p> Address: Bukidnon</p>
+        <p> Birthday:June 01, 2005</p>
+        <p>Height: 5'8 </p>
+        <p>Weight: 76kg </p>
+
+        <hr>
+
+        <h2 id="eb"> Educational Background</h2>
+        <h3>Tertiary:</h3>
+        <p>CMU</p>
+        <h3>Secondary</h3>
+        <p> Valencia National Highschool</p>
+        <h3>Elementary</h3>
+        <p>Valencia City Central School</p>
+
+        <hr>
+
+        <h2 id="si">Skills and Interest</h2>
+        <h3>Skills</h3>
+        <ol>
+            <li>Drawing</li>
+            <li>Writing</li>
+            <li>Adaptive Learning</li>
+        </ol>
+        <h3>Interest</h3>
+        <ul>
+            <li>Drawing</li>
+            <li>Writing</li>
+            <li>Reading</li>
+            <li>Music</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="we">Work Experience</h2>
+        <p>Freelance Junior Programmer 2020 - 2022 </p>
+        <p>Indie Game Developer 2021 - 2022</p>
+
+        <hr>
+
+        <h2 id="c">Certifications</h2>
+        <p>Certification of Graduation in CMU Information and Sciences 2023</p>
+
+        <hr>
+
+        <h2 id="cr">Character Reference</h2>
+        <p>Weljo Chesedh Libnao - Programming Instructor </p>
+
+    </div>
+
+</body>
+</html>
